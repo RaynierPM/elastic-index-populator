@@ -1,0 +1,12 @@
+{
+  "name": "es-populate-script",
+  "version": "1.0.0",
+  "description": "Just a script to populate qvitae elastic search index",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
